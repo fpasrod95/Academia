@@ -1,4 +1,5 @@
 <!-- Navigation auth-->
+<?php include 'head.php' ; ?>
 <nav class="navbar navbar-expand-lg bg-secondary text-uppercase" id="mainNav">
    <div class="container">
       <a class="navbar-brand text-white" href="?controller=home&action=index">MiAcademia</a>

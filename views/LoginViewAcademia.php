@@ -3,7 +3,7 @@
 <?php require 'ValLoginViewAcademia.php'; ?>
 <div class="col-lg-8 mt-5 mt-lg-0">
 
-    <form action="LoginViewAcademia.php" method="post" role="form" class="php-email-form">
+    <form action="<?php echo $_SERVER['PHP_SELF']?>" method="post" role="form" class="php-email-form">
         <div class="row">
             <div class="col-md-6 form-group">
                 <input type="text" name="login" class="form-control" id="login" placeholder="Nombre" required>
@@ -27,3 +27,5 @@
     </form>
 
 </div>
+
+<?php require 'includes/footer.php'; ?>
