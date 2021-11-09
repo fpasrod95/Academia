@@ -1,22 +1,3 @@
-<!-- Hero section -->
-<section class="hero-section set-bg" data-setbg="img/bg.jpg">
-		<div class="container">
-			<div class="hero-text text-white">
-				<h2>Los mejores cursos online</h2>
-				<p>De diferentes módulos y niveles de dificultad adaptados al tipo de enseñanza</p>
-			</div>
-			<div class="row">
-				<div class="col-lg-10 offset-lg-1">
-					<form class="intro-newslatter">
-						<input type="text" placeholder="Name">
-						<input type="text" class="last-s" placeholder="E-mail">
-						<button class="site-btn">Regístrate ahora</button>
-					</form>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Hero section end -->
 
 
 	<!-- categories section -->
