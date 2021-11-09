@@ -133,7 +133,11 @@ ol {
 	padding-top: 115px;
 	padding-bottom: 115px;
 }
-
+.text-black p
+.text-black h2
+.text-black a {
+	color: #000;
+}
 .text-white h1,
 .text-white h2,
 .text-white h3,

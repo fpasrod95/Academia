@@ -46,9 +46,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-3">
-					<div class="site-logo">
+					<!-- <div class="site-logo">
 						<img src="img/logo.png" alt="">
-					</div>
+					</div> -->
 					<div class="nav-switch">
 						<i class="fa fa-bars"></i>
 					</div>
@@ -75,11 +75,11 @@
 	<!-- Hero section -->
 	<section class="hero-section set-bg" data-setbg="img/bg.jpg">
 		<div class="container">
-			<div class="hero-text text-white">
-				<h2>Los mejores cursos online</h2>
-				<p>De diferentes módulos y niveles de dificultad adaptados al tipo de enseñanza</p>
+			<div class="hero-text text-black">
+				<h2>ACADEMIA SAPERE AUDE</h2>
+				<p>Diferentes módulos y niveles de dificultad adaptados al tipo de enseñanza</p>
 			</div>
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-lg-10 offset-lg-1">
 					<form class="intro-newslatter">
 						<input type="text" placeholder="Name">
@@ -87,7 +87,7 @@
 						<button class="site-btn">Regístrate ahora</button>
 					</form>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</section>
 	<!-- Hero section end -->
