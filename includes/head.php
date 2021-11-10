@@ -1,93 +1,43 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
-<head>
-	<title>WebUni - Education Template</title>
-	<meta charset="UTF-8">
-	<meta name="description" content="WebUni Education Template">
-	<meta name="keywords" content="webuni, education, creative, html">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Favicon -->
-	<link href="img/favicon.ico" rel="shortcut icon" />
+<head> -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
+  <title>Mentor Bootstrap Template - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
 
-	<!-- Stylesheets -->
-	<link rel="stylesheet" href="css/bootstrap.min.css" />
-	<link rel="stylesheet" href="css/font-awesome.min.css" />
-	<link rel="stylesheet" href="css/owl.carousel.css" />
-	<link rel="stylesheet" href="css/style.css" />
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-	<!--[if lt IE 9]>
-	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	
-	<![endif]-->
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/mixitup.min.js"></script>
-	<script src="js/circle-progress.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/main.js"></script>
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
 
-</head>
+ 
 
-<body>
-	<!-- Page Preloder -->
-	<div id="preloder">
-		<div class="loader"></div>
-	</div>
+  <!-- =======================================================
+  * Template Name: Mentor - v4.6.1
+  * Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+<!-- </head>
 
-	<!-- Header section -->
-	<header class="header-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-3">
-					<!-- <div class="site-logo">
-						<img src="img/logo.png" alt="">
-					</div> -->
-					<div class="nav-switch">
-						<i class="fa fa-bars"></i>
-					</div>
-				</div>
-				<div class="col-lg-10 col-md-10">
-					<a href="login.html" class="site-btn header-btn">Login</a>
-					<nav class="main-menu">
-						<ul>
-							<li><a href="index.html">Inicio</a></li>
-							<li><a href="registro.html">Registro</a></li>
-							<li><a href="#">Sobre nosotros</a></li>
-							<li><a href="courses.html">Cursos</a></li>
-							<li><a href="blog.html">Noticias</a></li>
-							<li><a href="contact.html">Contacto</a></li>
-						</ul>
-					</nav>
-				</div>
-			</div>
-		</div>
-	</header>
+<body> -->
 
-
-
-	<!-- Hero section -->
-	<section class="hero-section set-bg" data-setbg="img/bg.jpg">
-		<div class="container">
-			<div class="hero-text text-black">
-				<h2>ACADEMIA SAPERE AUDE</h2>
-				<p>Diferentes módulos y niveles de dificultad adaptados al tipo de enseñanza</p>
-			</div>
-			<!-- <div class="row">
-				<div class="col-lg-10 offset-lg-1">
-					<form class="intro-newslatter">
-						<input type="text" placeholder="Name">
-						<input type="text" class="last-s" placeholder="E-mail">
-						<button class="site-btn">Regístrate ahora</button>
-					</form>
-				</div>
-			</div> -->
-		</div>
-	</section>
-	<!-- Hero section end -->
+  

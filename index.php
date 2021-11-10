@@ -12,4 +12,4 @@
 
 </html> -->
 
-<?php require 'views/InicioGuestViewAcademia.php' ; ?>
+<?php require 'InicioGuestViewAcademia.php' ; ?>

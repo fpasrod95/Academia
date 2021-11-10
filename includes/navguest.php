@@ -1,5 +1,5 @@
 <!-- Navigation guest-->
-<?php include 'head.php' ; ?>
+
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
@@ -10,12 +10,10 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.html">Home</a></li>
+          <li><a class="active" href="index.html">Inicio</a></li>
           <li><a href="about.html">Sobre nosotros</a></li>
           <li><a href="courses.html">Contacto</a></li>
-          <li><a href="../LoginViewAcademia.php">Login</a></li>
-          <li><a href="events.html">Events</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
+          <li><a href="LoginViewAcademia.php">Login</a></li>
 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
